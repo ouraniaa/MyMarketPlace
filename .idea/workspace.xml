@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd19298d-ce3e-4e6a-bd74-42402207e6ce" name="Changes" comment="1.1" />
+    <list default="true" id="fd19298d-ce3e-4e6a-bd74-42402207e6ce" name="Changes" comment="1.2">
+      <change beforePath="$PROJECT_DIR$/.idea/MyMarketPlace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyMarketPlace.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +33,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -54,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758995792384</updated>
-      <workItem from="1758995793573" duration="460000" />
+      <workItem from="1758995793573" duration="1905000" />
     </task>
     <task id="LOCAL-00001" summary="1o">
       <option name="closed" value="true" />
@@ -72,7 +79,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758996233589</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1.2">
+      <option name="closed" value="true" />
+      <created>1758996761559</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758996761559</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +96,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1o" />
     <MESSAGE value="1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.1" />
+    <MESSAGE value="1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.2" />
   </component>
 </project>
