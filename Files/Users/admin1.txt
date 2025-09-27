@@ -1,0 +1,5 @@
+manager
+1
+admin1
+password1
+Διαχειριστής
